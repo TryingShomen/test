@@ -1,0 +1,5 @@
+hookfunction(print, warn)
+print("Test like lol")
+wait(1)
+hookfuntion(print, error)
+print("test try 1")
